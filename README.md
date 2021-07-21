@@ -1,3 +1,7 @@
 ### Hi 👋
 
-I code for human.
+```
+💼 Software engineer
+🌐 ID, EN, ZH, JavaScript, Ruby, Java, .NET
+🌏 Jakarta, ID
+```
