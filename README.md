@@ -2,6 +2,6 @@
 
 ```
 💼 Software engineer
-🌐 ID, EN, ZH, JavaScript, Ruby, Java, .NET
+🌐 id, en, zh-CN, JavaScript, Ruby
 🌏 Jakarta, ID
 ```
